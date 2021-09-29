@@ -2,8 +2,6 @@
 
 This project has been Deployed to:
 
-https://widgets-factory-frontend-qawujgqebe.now.sh
-
 Client built with Reactjs using Nextjs for Server Side Rendering.
 Apollo client to perform data fetching, mutations and cache data locally.
 
